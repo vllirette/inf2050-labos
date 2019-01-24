@@ -19,7 +19,7 @@ Exercices
 Pour ces exercices, utilisez les jar disponibles dans ce
 [répertoire](librairies/).
 
-1. Écrivez un programme qui lit ce [document JSON](collection.json) et qui affiche à la
+1. Écrivez un programme qui lit ce [document JSON](json-read-example/data/collection.json) et qui affiche à la
    console les informations suivantes :
    * le nombre d'albums;
    * le nombre de singles;
