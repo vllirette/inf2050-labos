@@ -1,0 +1,5 @@
+Managing and Leading Software Projects
+Clean Code
+The Phoenix Project
+ISO 12207
+ISO 8601
