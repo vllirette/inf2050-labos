@@ -33,7 +33,7 @@
                     <sourceEncoding>utf-8</sourceEncoding>
                     <targetJdk>1.5</targetJdk>
                     <rulesets>
-                        <ruleset>/home/vincent/Documents/GitHub/inf2050-labos/maven/Logging/ruleset.xml</ruleset>
+                        <ruleset>/home/vincent/Documents/GitHub/inf2050-labos/static/jsonlibstatic/ruleset.xml</ruleset>
                     </rulesets>
                 </configuration>
             </plugin>
